@@ -1,15 +1,15 @@
 {
   "files": {
-    "static/js/0.eb8ab617.chunk.js": "/static/js/0.eb8ab617.chunk.js",
-    "static/js/0.eb8ab617.chunk.js.map": "/static/js/0.eb8ab617.chunk.js.map",
-    "app.js": "/static/js/app.917b597f.chunk.js",
-    "app.js.map": "/static/js/app.917b597f.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.7f7c3de9.js",
-    "runtime~app.js.map": "/static/js/runtime~app.7f7c3de9.js.map",
-    "static/js/3.fa9e3f0b.chunk.js": "/static/js/3.fa9e3f0b.chunk.js",
-    "static/js/3.fa9e3f0b.chunk.js.map": "/static/js/3.fa9e3f0b.chunk.js.map",
-    "static/js/4.b44c80c4.chunk.js": "/static/js/4.b44c80c4.chunk.js",
-    "static/js/4.b44c80c4.chunk.js.map": "/static/js/4.b44c80c4.chunk.js.map",
+    "static/js/0.044062a4.chunk.js": "/static/js/0.044062a4.chunk.js",
+    "static/js/0.044062a4.chunk.js.map": "/static/js/0.044062a4.chunk.js.map",
+    "app.js": "/static/js/app.869604f0.chunk.js",
+    "app.js.map": "/static/js/app.869604f0.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.fecdd805.js",
+    "runtime~app.js.map": "/static/js/runtime~app.fecdd805.js.map",
+    "static/js/3.1320d2b0.chunk.js": "/static/js/3.1320d2b0.chunk.js",
+    "static/js/3.1320d2b0.chunk.js.map": "/static/js/3.1320d2b0.chunk.js.map",
+    "static/js/4.761e7fea.chunk.js": "/static/js/4.761e7fea.chunk.js",
+    "static/js/4.761e7fea.chunk.js.map": "/static/js/4.761e7fea.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/./fonts/Feather.ttf",
@@ -39,7 +39,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/3.fa9e3f0b.chunk.js.LICENSE.txt": "/static/js/3.fa9e3f0b.chunk.js.LICENSE.txt",
+    "static/js/3.1320d2b0.chunk.js.LICENSE.txt": "/static/js/3.1320d2b0.chunk.js.LICENSE.txt",
     "static/media/color-circle.png": "/static/media/color-circle.16251760.png",
     "static/media/hsv_triangle_mask.png": "/static/media/hsv_triangle_mask.851ea126.png",
     "static/media/logo.png": "/static/media/logo.6fa2ed95.png",
@@ -47,8 +47,8 @@
     "static/media/weather.png": "/static/media/weather.0908eb6b.png"
   },
   "entrypoints": [
-    "static/js/runtime~app.7f7c3de9.js",
-    "static/js/3.fa9e3f0b.chunk.js",
-    "static/js/app.917b597f.chunk.js"
+    "static/js/runtime~app.fecdd805.js",
+    "static/js/3.1320d2b0.chunk.js",
+    "static/js/app.869604f0.chunk.js"
   ]
 }
