@@ -1,13 +1,13 @@
 {
   "files": {
-    "static/js/0.070cd0c8.chunk.js": "/static/js/0.070cd0c8.chunk.js",
-    "static/js/0.070cd0c8.chunk.js.map": "/static/js/0.070cd0c8.chunk.js.map",
-    "app.js": "/static/js/app.75c39bda.chunk.js",
-    "app.js.map": "/static/js/app.75c39bda.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.ecf8bbf9.js",
-    "runtime~app.js.map": "/static/js/runtime~app.ecf8bbf9.js.map",
-    "static/js/3.f47e90a5.chunk.js": "/static/js/3.f47e90a5.chunk.js",
-    "static/js/3.f47e90a5.chunk.js.map": "/static/js/3.f47e90a5.chunk.js.map",
+    "static/js/0.6af312b3.chunk.js": "/static/js/0.6af312b3.chunk.js",
+    "static/js/0.6af312b3.chunk.js.map": "/static/js/0.6af312b3.chunk.js.map",
+    "app.js": "/static/js/app.823e5492.chunk.js",
+    "app.js.map": "/static/js/app.823e5492.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.e9d32cbd.js",
+    "runtime~app.js.map": "/static/js/runtime~app.e9d32cbd.js.map",
+    "static/js/3.39ce6214.chunk.js": "/static/js/3.39ce6214.chunk.js",
+    "static/js/3.39ce6214.chunk.js.map": "/static/js/3.39ce6214.chunk.js.map",
     "static/js/4.66e05259.chunk.js": "/static/js/4.66e05259.chunk.js",
     "static/js/4.66e05259.chunk.js.map": "/static/js/4.66e05259.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
@@ -40,7 +40,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/3.f47e90a5.chunk.js.LICENSE.txt": "/static/js/3.f47e90a5.chunk.js.LICENSE.txt",
+    "static/js/3.39ce6214.chunk.js.LICENSE.txt": "/static/js/3.39ce6214.chunk.js.LICENSE.txt",
     "static/media/color-circle.png": "/static/media/color-circle.16251760.png",
     "static/media/hsv_triangle_mask.png": "/static/media/hsv_triangle_mask.851ea126.png",
     "static/media/info.png": "/static/media/info.0dbb46af.png",
@@ -51,8 +51,8 @@
     "static/media/weather.png": "/static/media/weather.0908eb6b.png"
   },
   "entrypoints": [
-    "static/js/runtime~app.ecf8bbf9.js",
-    "static/js/3.f47e90a5.chunk.js",
-    "static/js/app.75c39bda.chunk.js"
+    "static/js/runtime~app.e9d32cbd.js",
+    "static/js/3.39ce6214.chunk.js",
+    "static/js/app.823e5492.chunk.js"
   ]
 }
