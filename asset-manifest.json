@@ -2,12 +2,12 @@
   "files": {
     "static/js/0.8ae15316.chunk.js": "/static/js/0.8ae15316.chunk.js",
     "static/js/0.8ae15316.chunk.js.map": "/static/js/0.8ae15316.chunk.js.map",
-    "app.js": "/static/js/app.488830f0.chunk.js",
-    "app.js.map": "/static/js/app.488830f0.chunk.js.map",
+    "app.js": "/static/js/app.6e3c0fc8.chunk.js",
+    "app.js.map": "/static/js/app.6e3c0fc8.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.24d4b9d5.js",
     "runtime~app.js.map": "/static/js/runtime~app.24d4b9d5.js.map",
-    "static/js/3.6a0bbc4c.chunk.js": "/static/js/3.6a0bbc4c.chunk.js",
-    "static/js/3.6a0bbc4c.chunk.js.map": "/static/js/3.6a0bbc4c.chunk.js.map",
+    "static/js/3.58b5b2ba.chunk.js": "/static/js/3.58b5b2ba.chunk.js",
+    "static/js/3.58b5b2ba.chunk.js.map": "/static/js/3.58b5b2ba.chunk.js.map",
     "static/js/4.e888cf32.chunk.js": "/static/js/4.e888cf32.chunk.js",
     "static/js/4.e888cf32.chunk.js.map": "/static/js/4.e888cf32.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
@@ -52,7 +52,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/3.6a0bbc4c.chunk.js.LICENSE.txt": "/static/js/3.6a0bbc4c.chunk.js.LICENSE.txt",
+    "static/js/3.58b5b2ba.chunk.js.LICENSE.txt": "/static/js/3.58b5b2ba.chunk.js.LICENSE.txt",
     "static/media/color-circle.png": "/static/media/color-circle.16251760.png",
     "static/media/hsv_triangle_mask.png": "/static/media/hsv_triangle_mask.851ea126.png",
     "static/media/logo-black.png": "/static/media/logo-black.36bb8461.png",
@@ -65,7 +65,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.24d4b9d5.js",
-    "static/js/3.6a0bbc4c.chunk.js",
-    "static/js/app.488830f0.chunk.js"
+    "static/js/3.58b5b2ba.chunk.js",
+    "static/js/app.6e3c0fc8.chunk.js"
   ]
 }
